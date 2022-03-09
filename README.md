@@ -1,27 +1,24 @@
 # awesome-verus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of verus
-
+> An awesome curated list about verus coin developer tools, demos, scripts, articles and more! 😎
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Developer Tools](#developer-tools)
+- [Articles](#articles)
+- [Demos](#demos)
 
 
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
+## Developer Tools
 
 - [List item](http://example.com)
+
+## Articles
+
+- [List item](http://example.com)
+
+## Demos
+
 - [List item](http://example.com)
 
 
