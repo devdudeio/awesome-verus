@@ -6,20 +6,21 @@
 
 - [Developer Tools](#developer-tools)
 - [Articles](#articles)
-- [Demos](#demos)
+- [Live Demos](#live-demos)
 
 
 ## Developer Tools
-
-- [List item](http://example.com)
+Awesome Dev Tools to develop your applications
+- [node-komodo-rpc](https://www.npmjs.com/package/node-komodo-rpc) - liteweight rpc client for komodo. works very well for verus also.
 
 ## Articles
+Interesting Articles about verus
+- [veruscoin (medium.com)](https://medium.com/veruscoin)
 
-- [List item](http://example.com)
-
-## Demos
-
-- [List item](http://example.com)
+## Live Demos
+Websites and live demos using verus features
+- [devdude.io](https://devdude.io) - summary of tiny veruscoin demos
+- [cragslist.hopto.org](https://cragslist.hopto.org) - verus id explorer
 
 
 ## Contribute
