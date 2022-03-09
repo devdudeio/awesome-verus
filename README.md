@@ -15,7 +15,7 @@ Awesome Dev Tools to develop your applications
 
 ## Articles
 Interesting Articles about verus
-- [veruscoin (medium.com)](https://medium.com/veruscoin)
+- [veruscoin (medium.com)](https://medium.com/veruscoin) - official veruscoin medium blogposts
 
 ## Live Demos
 Websites and live demos using verus features
