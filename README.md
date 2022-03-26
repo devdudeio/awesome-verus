@@ -5,6 +5,7 @@
 ## Contents
 
 - [Developer Tools](#developer-tools)
+- [Mining Tools](#mining-tools)
 - [Articles](#articles)
 - [Live Demos](#live-demos)
 
@@ -13,6 +14,9 @@
 Awesome Dev Tools to develop your applications
 - [bitcoind-rpc](https://github.com/miketout/bitcoind-rpc) - liteweight rpc client for verus.
 - [khoji-explorer](https://github.com/Meshbits/khoji) - Blockchain Explorer for Veruscoin and it's PBaaS chains
+
+## Mining Tools
+- [adb-verus-install](https://github.com/pangz-lab/adb-verus-install) - Seemless and smoooth miner installation for mobile phone
 
 ## Articles
 Interesting Articles about verus
