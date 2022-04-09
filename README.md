@@ -13,6 +13,7 @@
 ## Developer Tools
 Awesome Dev Tools to develop your applications
 - [bitcoind-rpc](https://github.com/miketout/bitcoind-rpc) - liteweight rpc client for verus.
+- [node-komodo-rpc](https://www.npmjs.com/package/node-komodo-rpc) - liteweight rpc client using reflection
 - [khoji-explorer](https://github.com/Meshbits/khoji) - Blockchain Explorer for Veruscoin and it's PBaaS chains
 
 ## Mining Tools
